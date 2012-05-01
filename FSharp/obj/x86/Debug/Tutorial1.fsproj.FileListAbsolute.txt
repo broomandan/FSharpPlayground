@@ -1,6 +1,0 @@
-c:\users\broomandro01\documents\visual studio 2010\Projects\Tutorial1\Tutorial1\bin\Debug\Tutorial1.XML
-c:\users\broomandro01\documents\visual studio 2010\Projects\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
-c:\users\broomandro01\documents\visual studio 2010\Projects\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
-c:\users\broomandro01\documents\visual studio 2010\Projects\Tutorial1\Tutorial1\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\broomandro01\documents\visual studio 2010\Projects\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.exe
-c:\users\broomandro01\documents\visual studio 2010\Projects\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.pdb
